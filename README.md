@@ -12,4 +12,5 @@ Zum starten verwendet 'ng serve --ssl=true --host=0.0.0.0 --disable-host-check'
 
 Nun braucht ihr die ID des Hosts, also eures Laptops. (cmd -> ipconfig)
 Damit dies funktioniert, müssen euer Host und euer Smartphone sich im gleichen Netzwerk befinden.
-Beim Handy im Browser nun 'https://192.168.*.*:4200' eingeben. Zugriff auf Kamera erlauben, sonst funktionierts natürlich nicht!
+Beim Handy im Browser nun 'https://192.168.*.*:4200' eingeben. Auf 'Erweitert' klicken und weiter zu 'https://192.168.*.*:4200'.
+Zugriff auf Kamera erlauben, sonst funktionierts natürlich nicht!
