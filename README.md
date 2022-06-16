@@ -2,7 +2,7 @@
 
 ## Projekt aufsetzen
 
-Im 2.ten Folder "Barcode_Scanner" 'npm i' durchführen. (Falls nicht versucht 'npm install --save @ericblade/quagga2 ngx-barcode-scanner')
+Im 2.ten Folder "Barcode_Scanner" 'npm i' durchführen. (Falls es nicht funktioniert, versucht 'npm install --save @ericblade/quagga2 ngx-barcode-scanner')
 
 Zum starten verwendet 'ng serve --ssl=true --host=0.0.0.0 --disable-host-check'
 
